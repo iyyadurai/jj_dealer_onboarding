@@ -7,6 +7,7 @@
         <element label="Outstanding Clearance (of discontinued distributor if any)" max_length="40" name="outstanding_clearance" type="string"/>
         <element label="Other Details / Comments If any" max_length="40" name="other_details" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
         <element label="Company Name" max_length="40" name="other_company_name" type="string"/>
         <element label="Appointment Req By Name" max_length="40" name="appointment_req_by" type="string"/>
         <element label="JJ Supervisor WWID" max_length="40" name="jj_supervisor_wwid" type="string"/>

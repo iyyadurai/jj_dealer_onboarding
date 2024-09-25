@@ -163,5 +163,6 @@
             </choice>
         </element>
         <element label="Additional Details / Comments etc" max_length="40" name="observed_or_received_cmts" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
     </element>
 </database>

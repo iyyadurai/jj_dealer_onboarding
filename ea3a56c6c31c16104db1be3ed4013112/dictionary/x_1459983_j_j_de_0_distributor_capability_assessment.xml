@@ -9,6 +9,7 @@
         <element label="Frequency of visit to Chemists" max_length="40" name="freqency" type="string"/>
         <element label="Total" max_length="40" name="total" type="string"/>
         <element label="How many MNCs served" max_length="40" name="how_many_mnc_covered" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
         <element label="Number of Govt Institutions covered" max_length="40" name="govt_institutions_covered" type="string"/>
         <element label="territory" max_length="40" name="territory" type="string"/>
         <element label="Proposed Distributor's Name" max_length="40" name="proposed_dis_name" type="string"/>
